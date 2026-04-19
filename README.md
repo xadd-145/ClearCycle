@@ -26,7 +26,7 @@ Tracks individual patient claims moving through the collections pipeline.
 | Group | Purpose |
 |---|---|
 | Current Month | Newly entered claims, Days Open < 30 |
-| Aging 30–60 Days | Claims approaching escalation threshold |
+| Aging 30-60 Days | Claims approaching escalation threshold |
 | Aging 60+ Days (Critical) | At-risk claims requiring immediate action |
 | Resolved This Month | Closed accounts for audit trail |
 
@@ -63,10 +63,10 @@ Churn Score (%) = ROUND(MIN(100, (({Open Escalations} * 10) + ({Days Since Conta
 **Score interpretation:**
 | Score | Risk Level | Example |
 |---|---|---|
-| 80–100 | Critical - immediate intervention | Riverside Medical: 100 |
-| 60–79 | High - urgent follow-up | Lakewood Hospital: 86 |
-| 40–59 | Moderate - monitor closely | Northside Clinic: 60 |
-| 0–39 | Low - routine check-in | Pinecrest Health: 5 |
+| 80-100 | Critical - immediate intervention | Riverside Medical: 100 |
+| 60-79 | High - urgent follow-up | Lakewood Hospital: 86 |
+| 40-59 | Moderate - monitor closely | Northside Clinic: 60 |
+| 0-39 | Low - routine check-in | Pinecrest Health: 5 |
 
 ---
 
