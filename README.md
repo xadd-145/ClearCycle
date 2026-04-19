@@ -202,8 +202,7 @@ Analyst sees prioritized work queue → acts → revenue recovered
 
 ```
 /
-├── README.md                     
-├── Monday_CRM_Writeup.docx       
+├── README.md                          
 └── screenshots/
     ├── Patient_Accounts_Tracker.png
     ├── Churn_Risk_Accounts.png
