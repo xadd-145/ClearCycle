@@ -86,7 +86,6 @@ Cross-board command center pulling live data from both boards simultaneously.
 
 <img src="screenshots/Revenue Operations Command Center Dashboard.png" alt="Revenue Operations Command Center Dashboard" width="750"/>
 
----
 
 ---
 ### Automations (6 Total - All Active)
