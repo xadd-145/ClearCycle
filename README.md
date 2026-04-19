@@ -88,6 +88,7 @@ Cross-board command center pulling live data from both boards simultaneously.
 
 ---
 
+---
 ### Automations (6 Total - All Active)
 
 **Patient Accounts Tracker (4 automations):**
